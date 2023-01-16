@@ -1,5 +1,3 @@
-
-
 const Paciente = () => {
     return (
         <div className="mx-5 my-10 bg-white shadow-md p-5 py-10 rounded-xl">
@@ -26,4 +24,4 @@ const Paciente = () => {
     )
 }
 
-export default Paciente
+export default Paciente;
